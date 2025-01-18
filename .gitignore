@@ -1,0 +1,11 @@
+# Ignore node_modules
+node_modules/
+.cache/
+.env
+*.log
+.idea/
+dist/
+
+# Ignore Mac and Windows system files
+.DS_Store
+Thumbs.db
